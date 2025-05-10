@@ -16,6 +16,7 @@ The code was tested on a dataset of images from categories "animals", "faces", a
 - Image 29: MSE: 43.36, Ratio: 4.00:1
 - Image 30: MSE: 155.52, Ratio: 4.00:1
 
+
 ### YUV Compression Results
 - Image 1: MSE: 7.43, Ratio: 8.00:1
 - Image 2: MSE: 26.65, Ratio: 8.00:1
